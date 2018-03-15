@@ -1,0 +1,22 @@
+.grid {
+   > div {
+      background-color: rgba($success-color, .45);
+      padding: 1.5rem;
+      font-size: 4rem;
+      border: 2px solid black;
+      color: $elegant-color;
+   }
+}
+
+
+
+
+.second-grid {
+   > div {
+      background-color: rgba($danger-color, .85);
+      padding: 1.5rem;
+      font-size: 4rem;
+      border: 2px solid black;
+      color: $elegant-color;
+   }
+}
